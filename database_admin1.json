@@ -1,0 +1,905 @@
+{
+  "teams": [
+    "MXS ACADEMY",
+    "DYZ ESPORT",
+    "ÇKZ E-SPORTS",
+    "İOS E-SPORTS",
+    "KARA E-SPORTS",
+    "MANİFEST ESPORTS",
+    "NİGT 7 XTREM",
+    "NXS Esports",
+    "XN E-SPORTS",
+    "LUTHER TEAM",
+    "NotFOUND academy",
+    "INFINTE FORCE E-SPORTS",
+    "WOLF 77K ESPORTS",
+    "212 ESPOR",
+    "Peaky bilinders",
+    "BestNive7",
+    "Dict4tors E-sports",
+    "Wolfxem",
+    "LEGOLAS ESPORTS",
+    "GARCİA E-SPORTS"
+  ],
+  "scores": {
+    "MXS ACADEMY": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "DYZ ESPORT": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "ÇKZ E-SPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "İOS E-SPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "KARA E-SPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "MANİFEST ESPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "NİGT 7 XTREM": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "NXS Esports": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "XN E-SPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "LUTHER TEAM": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "NotFOUND academy": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "INFINTE FORCE E-SPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "WOLF 77K ESPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "212 ESPOR": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "Peaky bilinders": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "BestNive7": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "Dict4tors E-sports": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "Wolfxem": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "LEGOLAS ESPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ],
+    "GARCİA E-SPORTS": [
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      },
+      {
+        "kill": "",
+        "rank": ""
+      }
+    ]
+  },
+  "leaderboard": [
+    {
+      "teamName": "MXS ACADEMY",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "DYZ ESPORT",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "ÇKZ E-SPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "İOS E-SPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "KARA E-SPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "MANİFEST ESPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "NİGT 7 XTREM",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "NXS Esports",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "XN E-SPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "LUTHER TEAM",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "NotFOUND academy",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "INFINTE FORCE E-SPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "WOLF 77K ESPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "212 ESPOR",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "Peaky bilinders",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "BestNive7",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "Dict4tors E-sports",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "Wolfxem",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "LEGOLAS ESPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    },
+    {
+      "teamName": "GARCİA E-SPORTS",
+      "score": 0,
+      "kills": 0,
+      "wins": 0,
+      "placeScore": 0
+    }
+  ],
+  "spectating": null,
+  "mvps": [],
+  "slots": {},
+  "rosters": {
+    "MXS ACADEMY": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "DYZ ESPORT": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ÇKZ E-SPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "İOS E-SPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "KARA E-SPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "MANİFEST ESPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "NİGT 7 XTREM": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "NXS Esports": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "XN E-SPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "LUTHER TEAM": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "NotFOUND academy": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "INFINTE FORCE E-SPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "WOLF 77K ESPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "212 ESPOR": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Peaky bilinders": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "BestNive7": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Dict4tors E-sports": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Wolfxem": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "LEGOLAS ESPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GARCİA E-SPORTS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "logos": {
+    "MXS ACADEMY": "",
+    "DYZ ESPORT": "",
+    "ÇKZ E-SPORTS": "",
+    "İOS E-SPORTS": "",
+    "KARA E-SPORTS": "",
+    "MANİFEST ESPORTS": "",
+    "NİGT 7 XTREM": "",
+    "NXS Esports": "",
+    "XN E-SPORTS": "",
+    "LUTHER TEAM": "",
+    "NotFOUND academy": "",
+    "INFINTE FORCE E-SPORTS": "",
+    "WOLF 77K ESPORTS": "",
+    "212 ESPOR": "",
+    "Peaky bilinders": "",
+    "BestNive7": "",
+    "Dict4tors E-sports": "",
+    "Wolfxem": "",
+    "LEGOLAS ESPORTS": "",
+    "GARCİA E-SPORTS": ""
+  },
+  "alive": {
+    "MXS ACADEMY": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "DYZ ESPORT": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "ÇKZ E-SPORTS": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "İOS E-SPORTS": [
+      3,
+      3,
+      3,
+      2
+    ],
+    "KARA E-SPORTS": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "MANİFEST ESPORTS": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "NİGT 7 XTREM": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "NXS Esports": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "XN E-SPORTS": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "LUTHER TEAM": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "NotFOUND academy": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "INFINTE FORCE E-SPORTS": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "WOLF 77K ESPORTS": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "212 ESPOR": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Peaky bilinders": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "BestNive7": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Dict4tors E-sports": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Wolfxem": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "LEGOLAS ESPORTS": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "GARCİA E-SPORTS": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  "defaultLogo": "",
+  "tournamentLogo": "",
+  "settings": {
+    "tournamentName": "PMGO 2026 GRAND FINALS",
+    "currentMatch": "MATCH 1 / ERANGEL",
+    "showAlive": false,
+    "showMarquee": true
+  }
+}

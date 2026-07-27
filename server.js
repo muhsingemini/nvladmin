@@ -12,8 +12,8 @@ app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ limit: '50mb', extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
 
-const ADMIN_USERNAME = "adminmuhsin";
-const ADMIN_PASSWORD = "Mosinasproz2007";
+const ADMIN_USERNAME = "admin1";
+const ADMIN_PASSWORD = "1234";
 const DB_FILE = path.join(__dirname, 'database.json');
 
 function readDB() {
@@ -105,7 +105,6 @@ app.post('/api/teams', (req, res) => {
     }
 });
 
-// KESİN ÇÖZÜM: BASİT VE GÜVENLİ TAKIM SİLME
 app.post('/api/remove-team', (req, res) => {
     const teamToDelete = req.body.team;
     const db = readDB();
